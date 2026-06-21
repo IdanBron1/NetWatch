@@ -1,0 +1,20 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Models and Large Databases (DO NOT UPLOAD)
+*.pkl
+*.mmdb
+*.h5
+
+# Data files
+*.csv
+*.pcap
+
+# OS generated files
+.DS_Store
+Thumbs.db

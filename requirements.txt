@@ -1,0 +1,12 @@
+scapy
+customtkinter
+pandas
+matplotlib
+fpdf
+joblib
+scikit-learn
+geoip2
+numpy
+tensorflow
+xgboost
+seaborn
