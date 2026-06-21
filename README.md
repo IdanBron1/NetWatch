@@ -11,7 +11,8 @@ NetWatch is an advanced, real-time packet sniffer and network analysis tool. It 
 * **PDF Reporting:** Automatically generates summary reports of network activity.
 
 ## 📸 Dashboard
-*(Place a screenshot of your working CustomTkinter GUI here - e.g., `![NetWatch GUI](docs/screenshot.png)`)*
+<img width="1920" height="1040" alt="screenshot" src="https://github.com/user-attachments/assets/eddf55f3-e58b-4fed-8f43-d1c2891b480a" />
+
 
 ## 🧠 The Machine Learning Pipeline
 The repository includes the full Data Science pipeline used to train the model in the `model_training/` directory. The data was sourced from MIT and UNB research datasets.
